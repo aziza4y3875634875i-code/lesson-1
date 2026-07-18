@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Restaurant</title>
+</head>
+<body>
+
+    <header>
+        <h1>Delicious Restaurant</h1>
+        <p>Fresh food, great taste!</p>
+    </header>
+
+    <main>
+        <h2>Our Menu</h2>
+
+        <h3>Pizza</h3>
+        <p>Cheese Pizza - $10</p>
+
+        <h3>Burger</h3>
+        <p>Classic Burger - $8</p>
+
+        <h3>Drinks</h3>
+        <p>Fresh Juice - $3</p>
+    </main>
+
+    <footer>
+        <p>Contact us: restaurant@example.com</p>
+    </footer>
+
+</body>
+</html>
