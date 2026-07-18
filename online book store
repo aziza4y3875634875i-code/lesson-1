@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Book Store</title>
+</head>
+<body>
+
+    <header>
+        <h1>Book World</h1>
+        <p>Your favorite books in one place</p>
+    </header>
+
+    <main>
+        <h2>Popular Books</h2>
+
+        <article>
+            <h3>The Great Adventure</h3>
+            <p>Author: John Smith</p>
+            <p>Price: $15</p>
+        </article>
+
+        <article>
+            <h3>Learning HTML</h3>
+            <p>Author: Jane Brown</p>
+            <p>Price: $20</p>
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Book World</p>
+    </footer>
+
+</body>
+</html>
